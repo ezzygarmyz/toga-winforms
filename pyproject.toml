@@ -61,7 +61,7 @@ root = ".."
 
 [tool.setuptools_dynamic_dependencies]
 dependencies = [
-    "pythonnet==3.0.5",
+    "pythonnet",
     "toga-core",
 ]
 
